@@ -1,2 +1,2 @@
 # gradient-cricle
-Project based in a Instagram post
+Project based on an Instagram post
